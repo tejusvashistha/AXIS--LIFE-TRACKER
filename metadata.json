@@ -1,0 +1,6 @@
+{
+  "name": "AXIS - Personal Operating System",
+  "description": "A calm, premium, highly customizable personal operating system built around your life, your system, your rules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
